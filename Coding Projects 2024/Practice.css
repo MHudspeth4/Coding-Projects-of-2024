@@ -1,0 +1,11 @@
+h1{
+    font-style:bold;
+    color: blueviolet;
+}
+ 
+div1{
+    border-style: dotted;
+    border-width: 6px;
+    border-radius: round;
+
+}

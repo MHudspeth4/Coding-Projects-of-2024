@@ -1,0 +1,115 @@
+body{
+    background-color: rgb(97, 50, 97);
+}
+
+header h1{
+    color: rgb(195, 72, 113) ;
+    text-align: center;
+    font-style: italic;
+    border-style: outset;
+    border-color: aliceblue;
+  
+}
+
+header h2{
+    text-align: center;
+    border-color: antiquewhite;
+    border-style: outset;
+}
+
+h1{
+    color:rgb(115, 0, 255);
+
+}
+
+
+
+h2 span{
+    font-style:italic;
+}
+a.one:link {
+    background-color: rgb(125, 72, 147);
+   padding:5px 55px;
+    color: green;
+    display: inline-block;
+    text-align: center;
+    text-decoration: none;
+   font-size: 20px;
+   position: relative;
+   top: 20px;
+}
+
+a.one:hover{
+    font-size: 150%;
+    color:rgb(26, 50, 75);
+
+}
+
+a.two:link {
+    background-color: rgb(125, 72, 147);
+    text-align: center;
+    background-color: rgb(125, 72, 147);
+    padding:5px 55px;
+     color: green;
+     display: inline-block;
+     text-decoration: none;
+    font-size: 20px;
+    position:absolute;
+    bottom: 490px;
+    left: 240px;
+    
+ }
+
+img.two{
+   margin-left:22px;
+}
+
+a.three:link {
+    background-color: rgb(125, 72, 147);
+   padding:5px 55px;
+    color: green;
+    display: inline-block;
+    text-align: center;
+    text-decoration: none;
+   font-size: 20px;
+   position: absolute;
+   bottom: 490px;
+   margin-left: 40px;
+}
+
+img.thre
+a.four:link {
+    background-color: rgb(125, 72, 147);
+   padding:5px 55px;
+    color: green;
+    display: inline-block;
+    text-align: center;
+    text-decoration: none;
+   font-size: 20px;
+   position: relative;
+
+}
+
+a.five:link {
+    background-color: rgb(125, 72, 147);
+   padding:5px 55px;
+    color: green;
+    display: inline-block;
+    text-align: center;
+    text-decoration: none;
+   font-size: 20px;
+   position: relative;
+   
+}
+
+a.six:link {
+    background-color: rgb(125, 72, 147);
+   padding:5px 55px;
+    color: green;
+    display: inline-block;
+    text-align: center;
+    text-decoration: none;
+   font-size: 20px;
+   position: relative;
+   
+}
